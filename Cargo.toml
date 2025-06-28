@@ -1,5 +1,5 @@
 [package]
-name = "pumpfun_cpi"
+name = "pumpfun-cpi"
 version = "0.1.0"
 edition = "2021"
 
